@@ -11,7 +11,7 @@ A quick template for starting new generative art sketches.
 * Create production-ready art
 
 ## Installation
-1. Clone this repository
+1. Fork this repository for your new project
 2. Install dependencies: `npm install`
 3. Create your new js file (copy `/public/js/template.js`) 
 4. Start the auto-updating runtime `npm run dev`
